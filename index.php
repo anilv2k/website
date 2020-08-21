@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Anilv2k</title>
+  <title>Anilv2k -  Anil Kumar Vinnakota </title>
   <meta content="laravel CMS, CMS,Wordpress," name="descriptison">
   <meta content="laravel CMS, CMS,Wordpress,Modules" name="keywords">
 
@@ -183,7 +183,7 @@ Working on identifying the project risk and planning mitigation action with the 
 			
 		   <h3 class="resume-title">Onsite Experience </h3>
             <div class="resume-item">
-              <h4>USA</h4>
+              <h4>Chicago, IL, USA</h4>
               <h5>Jan 2016 -  Jun 2016</h5>
               <p><em>Worked on Technoligies like Mongodb, Dot.Net, PHP Frameworks</em></p>
            <?php /*   <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */ ?>
@@ -201,24 +201,36 @@ Working on identifying the project risk and planning mitigation action with the 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Technical Lead </h4>
+              <p><em>Hyderabad, Telangana, India </em></p>
               <ul>
                 <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
                 <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
                 <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
                 <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+				<li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
+                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
+				<li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
+                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
               </ul>
             </div>
+         <h3 class="resume-title">Certifications</h3>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Member of CMMI DEV V1.3 SCAMPI A appraisal  </h4>
+              <p><em>Concept QA Labs</em></p>
               <ul>
+              
                 
               </ul>
             </div>
+			       <div class="resume-item">
+              <h4>Certification of Completion Devops engineer </h4>
+              <p><em>Edureka</em></p>
+              <ul>
+             
+              </ul>
+            </div>
+			
           </div>
         </div>
 
