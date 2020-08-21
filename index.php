@@ -61,8 +61,12 @@
           <li class="active"><a href="index.php"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
-          <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
+	
+          <li><a href="http://laravelcms.anilv2k.com"><i class="bx bx-book-content"></i> Lara CMS</a></li>
+          <li><a href="http://blog.anilv2k.com"><i class="bx bx-server"></i> Blog</a></li>
+		  	  
+		  <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
+			  
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
 
         </ul>
@@ -108,14 +112,20 @@
             <div class="row">
               <div class="col-lg-12">
                 <ul>
-<li><i class="icofont-rounded-right"></i> Expertise in CMS applications/Frameworks Laravel ,  Codeigniter, Symfony , Cake  PHP, Smarty, WordPress  using PHP/MYSQL and AJAX, JQuery etc.</li>
+<li><i class="icofont-rounded-right"></i> Expertise in CMS applications/Frameworks <strong>Laravel ,  Codeigniter, Symfony , Cake  PHP, Smarty, WordPress  using PHP/MYSQL and AJAX, JQuery etc. </strong></li>
 <li><i class="icofont-rounded-right"></i> Experience in C#.NET web application development and experience in SOAP web Services, Encompass SDK. Comfortable with Linux, Git and SVN </li>
-<li><i class="icofont-rounded-right"></i> Experience in designing and developing applications using ASP.NET, ADO.NET, C#, JQuery, JSON, Web Services</li>
+<li><i class="icofont-rounded-right"></i> Experience in designing and developing applications using Linux, <strong>Jenkins, Docker, OWASP, SoanrQube, Web Services</strong></li>
 <li><i class="icofont-rounded-right"></i> Good knowledge in Database concepts and Web applications. Good communication and interpersonal skills. Effective team member.</li>
-<li><i class="icofont-rounded-right"></i> Experience in creating database objects like tables, views and writing SQL Queries and Stored Procedures in SQL Server and MySQL Server</li>
+<li><i class="icofont-rounded-right"></i> Experience in creating database objects like tables, views and writing SQL Queries and Stored Procedures in <strong>SQL Server and MySQL Server</strong></li>
 <li><i class="icofont-rounded-right"></i> Professional understanding of Software development life cycle (SDLC), as well as various phases such as Requirements Gathering, Analysis/Design, Documentation, Development and Testing.</li>
+<li><i class="icofont-rounded-right"></i> Experience in deploying/ maintaning the Application in varias webservers like <strong>Apche , IIS and Nginx</strong></li>
 <li><i class="icofont-rounded-right"></i> Excellent troubleshooting & problem solving skills with Client-Server Applications & Web Applications and web servers. Sound skills in Agile Development and Test Driven Development.</li>
 <li><i class="icofont-rounded-right"></i> Proficient in database development in MySQL including creating objects, writing correlated sub queries, triggers, cursors, functions and transactions.</li>
+
+<li><i class="icofont-rounded-right"></i> 
+Reporting for all the weekly tasks in form of accurate and detailed reports.
+
+Working on identifying the project risk and planning mitigation action with the PM at project level.</li>
 
 
                 </ul>
@@ -132,119 +142,6 @@
     </section><!-- End About Section -->
 
 	<?php /*
-    <!-- ======= Facts Section ======= -->
-    <section id="facts" class="facts">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row no-gutters">
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
-            <div class="count-box">
-              <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="count-box">
-              <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">521</span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="count-box">
-              <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
-            <div class="count-box">
-              <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Facts Section -->
-
-    <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6" data-aos="fade-up">
-
-            <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Skills Section -->
 
 	*/ ?>
     <!-- ======= Resume Section ======= -->
@@ -271,17 +168,35 @@
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Master of Computer Applications</h4>
+              <h5>2007</h5>
+              <p><em>ANU, AP, India</em></p>
+           <?php /*   <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */ ?>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>Bachelor of Computer Applications</h4>
+              <h5>2004</h5>
+              <p><em>ANU, AP, India</em></p>
+         <?php /*     <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> */ ?>
             </div>
+			
+			
+		   <h3 class="resume-title">Onsite Experience </h3>
+            <div class="resume-item">
+              <h4>USA</h4>
+              <h5>Jan 2016 -  Jun 2016</h5>
+              <p><em>Worked on Technoligies like Mongodb, Dot.Net, PHP Frameworks</em></p>
+           <?php /*   <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */ ?>
+            </div>
+            <div class="resume-item">
+              <h4>Morocco</h4>
+              <h5>Jan 2016 -  Jun 2016</h5>
+              <p><em>Worked on Technoligies like Learning Mangement, CRM Applications, PHP Frameworks</em></p>
+         <?php /*     <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> */ ?>
+            </div>
+			
+			
+			
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
@@ -301,10 +216,7 @@
               <h5>2017 - 2018</h5>
               <p><em>Stepping Stone Advertising, New York, NY</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                
               </ul>
             </div>
           </div>
@@ -312,6 +224,15 @@
 
       </div>
     </section><!-- End Resume Section -->
+
+
+
+
+
+
+
+   <?php /*
+
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
@@ -429,6 +350,10 @@
 
       </div>
     </section><!-- End Portfolio Section -->
+	
+	
+	
+	*/ ?>
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
