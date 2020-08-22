@@ -52,7 +52,7 @@
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a  href="https://www.linkedin.com/in/anilv2k/" target="_blank"  class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -63,7 +63,7 @@
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
 	
           <li><a href="http://laravelcms.anilv2k.com"><i class="bx bx-book-content"></i> Lara CMS</a></li>
-          <li><a href="http://laravelcms.anilv2k.com/blog"><i class="bx bx-server"></i> My Blog</a></li>
+          <li><a href="http://laravelcms.anilv2k.com/blog.html"><i class="bx bx-server"></i> My Blog</a></li>
 		  	  
 		  <li><a href="#services"><i class="bx bx-server"></i>Open Source</a></li>
 			  
