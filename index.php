@@ -250,7 +250,7 @@ Working on identifying the project risk and planning mitigation action with the 
       <div class="container">
 
         <div class="section-title">
-          <h2>Open Source Tools / Frameworks</h2>
+          <h2>Open Source</h2>
           <p>Having 12 years of experience in IT industry, with an earned reputation for meeting deadlines and delivering critical solutions. I have worked on varios open source technologies. </p>
         </div>
 
